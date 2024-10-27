@@ -24,4 +24,5 @@ Log Errors and Actions: Log any issues encountered, and maintain a record of mes
 Close the WhatsApp App: End the process by closing the WhatsApp application.
 
 Notify User: Send a status update to the user via the UiPath Cloud interface, indicating completion or errors.
-![image](https://github.com/user-attachments/assets/03004cee-c21d-4e95-9b9b-f00042646ba8)
+
+
